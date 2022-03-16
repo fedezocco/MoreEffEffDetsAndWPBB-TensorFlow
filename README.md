@@ -1,5 +1,7 @@
 # MoreEffEffDetsAndWPBB-TensorFlow
 
+![Capture](https://user-images.githubusercontent.com/62107909/158655824-5cc3caaf-6738-461d-bf6c-45a97c901783.JPG)
+
 This folder is a modification of the original TensorFlow implementation of EfficientDets, version 
 of 23 October 2021: https://github.com/google/automl/tree/master/efficientdet
 
