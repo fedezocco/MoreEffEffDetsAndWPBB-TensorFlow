@@ -12,12 +12,19 @@ Files where I made changes or files that I have added (I commented with my name 
 (2) slightly modified "hparams_config.py" 
 
 (3) slightly "modified model_inspect.py"
+
 (4) created "dataset/prepare_xml-federico_zocco.py"
+
 (5) added "dataset/generate_tfrecord.py"
+
 (6) created "dataset/generate_tfrecords_Colab-federico_zocco.ipynb"
+
 (7) slightly modified "dataloader.py"
+
 (8) slightly modified "tf2/label_util.py" to add the Trash-ICRA19 and WPBB labels map 
+
 (9) slightly modified "inference.py" to make either the WPBB or the Trash-ICRA19 labels map the default one
+
 (10) added the folder "inference_images".
 
 See each file for details.
