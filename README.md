@@ -30,3 +30,5 @@ Files where I made changes or files that I have added (I commented with my name 
 (10) added the folder "inference_images".
 
 See each file for details.
+
+![Capture](https://user-images.githubusercontent.com/62107909/158658670-1b94b5cb-0b18-42f0-861c-e13c8c936ab4.JPG)
