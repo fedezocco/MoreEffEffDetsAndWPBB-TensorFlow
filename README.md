@@ -28,3 +28,4 @@ Files where I made changes or files that I have added (I commented with my name 
 (10) added the folder "inference_images".
 
 See each file for details.
+[Architectures.pdf](https://github.com/fedezocco/MoreEffEffDetsAndWPBB-TensorFlow/files/8266968/Architectures.pdf)
