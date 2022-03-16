@@ -1,4 +1,4 @@
-# MoreEffEffDetsAndWPBB-TensorFlow
+# Towards More Efficient EfficientDets and Low-Light Real-Time Marine Debris Detection 
 
 ![Capture](https://user-images.githubusercontent.com/62107909/158655824-5cc3caaf-6738-461d-bf6c-45a97c901783.JPG)
 
