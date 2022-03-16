@@ -1,0 +1,7 @@
+The following tools have been used to generate this annotated dataset from a set of recorded videos:
+
+Tool to cut videos: "Photos" app in Windows 10
+Tool to convert a video to a sequence of .jpg images: "Free Video to JPG Converter" (if more flexibility is needed, see code here: https://github.com/exponentialR/util_project/blob/master/plot_onNewframe.py)
+Tool to create bounding boxes, labels and save them in PASCAL VOC 2012 format: "labelImg" (https://github.com/tzutalin/labelImg) 
+
+NOTE: this dataset is annotated for Object Detection.
