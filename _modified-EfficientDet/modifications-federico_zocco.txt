@@ -7,7 +7,7 @@ Files where I made changes or files that I have added (I commented with my name 
 "Tutorial-training_TrashICRA19-federico_zocco.ipynb", "Tutorial-inference_images-federico_zocco.ipynb" and
 "Tutorial-model_eval-federico_zocco.ipynb")
 (2) slightly modified "hparams_config.py" 
-(3) slightly "modified model_inspect.py"
+(3) slightly modified "model_inspect.py"
 (4) created "dataset/prepare_xml-federico_zocco.py"
 (5) added "dataset/generate_tfrecord.py"
 (6) created "dataset/generate_tfrecords_Colab-federico_zocco.ipynb"
