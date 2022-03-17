@@ -7,15 +7,14 @@ Federico Zocco et al., Towards More Efficient EfficientDets and Low-Light Real-T
 
 An overview of each folder is below. For details, see the .txt files inside each folder.
 
-### 
+### _modified-EfficientDet
+
 This folder is a modification of the original TensorFlow implementation of EfficientDets, version 
-of 23 October 2021: https://github.com/google/automl/tree/master/efficientdet
+of 23 October 2021: https://github.com/google/automl/tree/master/efficientdet. The description of the architectural modifications is in the above mentioned paper. Here there is its implementation. We found that the architecture with less BiFPN layers and deeper class/box nets is more efficient.  
 
 Files where I made changes or files that I have added (I commented with my name the changes in each file):
 
-(1) re-wrote "tutorial.ipynb" (resulting in "Tutorial-training_PASCAL-federico_zocco.ipynb", 
-"Tutorial-training_TrashICRA19-federico_zocco.ipynb", "Tutorial-inference_images-federico_zocco.ipynb" and
-"Tutorial-model_eval-federico_zocco.ipynb")
+(1) re-wrote "tutorial.ipynb" (resulting in "Tutorial-training_PASCAL-federico_zocco.ipynb", "Tutorial-training_TrashICRA19-federico_zocco.ipynb", "Tutorial-inference_images-federico_zocco.ipynb" and "Tutorial-model_eval-federico_zocco.ipynb")
 
 (2) slightly modified "hparams_config.py" 
 
@@ -35,7 +34,7 @@ Files where I made changes or files that I have added (I commented with my name 
 
 (10) added the folder "inference_images".
 
-See each file for details.
+See each file for details. 
 
 ![Capture](https://user-images.githubusercontent.com/62107909/158658670-1b94b5cb-0b18-42f0-861c-e13c8c936ab4.JPG)
 
