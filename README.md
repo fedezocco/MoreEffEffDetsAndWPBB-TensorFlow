@@ -3,9 +3,9 @@
 This repository contains the source code and the dataset related to the paper:
 Federico Zocco et al., Towards More Efficient EfficientDets and Low-Light Real-Time Marine Debris Detection, 2022, https://arxiv.org/pdf/2203.07155.pdf.  
 
-An overview of each folder is below. For details, see the .txt files inside each folder.
+An overview of the main folders is below. For details, see the .txt files inside each folder.
 
-### _modified-EfficientDet
+### Folder: _modified-EfficientDet
 
 This folder is a modification of the original TensorFlow implementation of EfficientDets, version 
 of 23 October 2021: https://github.com/google/automl/tree/master/efficientdet. The description of the architectural modifications is in the above mentioned paper. Here there is its implementation. We found that the architecture with less BiFPN layers and deeper class/box nets is more efficient.  
