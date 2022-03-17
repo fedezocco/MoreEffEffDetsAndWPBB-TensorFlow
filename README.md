@@ -36,7 +36,9 @@ Files where I made changes or files that I have added (I commented with my name 
 
 See each file for details. 
 
-### Folder: 
+### Folder: WPBB_dataset
+
+The folder "WPBB_dataset" contains the in-water plastic bags and bottles (WPBB) dataset, which currently has 900 fully annotated images for object detection. Annotations are in PASCAL VOC 2012 format.
 
 ![Capture](https://user-images.githubusercontent.com/62107909/158658670-1b94b5cb-0b18-42f0-861c-e13c8c936ab4.JPG)
 
