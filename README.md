@@ -7,10 +7,10 @@ An overview of the main folders is below. For details, see the .txt files inside
 
 ### Folder: _modified-EfficientDet
 
-This folder is a modification of the original TensorFlow implementation of EfficientDets, version 
+The folder "_modified-EfficientDet" is a modification of the original TensorFlow implementation of EfficientDets, version 
 of 23 October 2021: https://github.com/google/automl/tree/master/efficientdet. The description of the architectural modifications is in the above mentioned paper. Here there is its implementation. We found that the architecture with less BiFPN layers and deeper class/box nets is more efficient.  
 
-![Capture](https://user-images.githubusercontent.com/62107909/158655824-5cc3caaf-6738-461d-bf6c-45a97c901783.JPG)
+![Capture](https://user-images.githubusercontent.com/62107909/158774955-c8ba86e7-dc3d-4214-bdef-c634573e8209.JPG)
 
 Files where I made changes or files that I have added (I commented with my name the changes in each file):
 
@@ -35,6 +35,8 @@ Files where I made changes or files that I have added (I commented with my name 
 (10) added the folder "inference_images".
 
 See each file for details. 
+
+### Folder: 
 
 ![Capture](https://user-images.githubusercontent.com/62107909/158658670-1b94b5cb-0b18-42f0-861c-e13c8c936ab4.JPG)
 
