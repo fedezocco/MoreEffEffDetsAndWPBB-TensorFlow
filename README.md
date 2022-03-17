@@ -46,4 +46,5 @@ The folder "WPBB_dataset" contains the in-water plastic bags and bottles (WPBB) 
 
 The folder "Low-light_detection_Results" shows how the detection results in Table IX of the related paper were achieved. We found that, for real-time robotic applications, the simple low-light image enhancement method based on adding a constant value to all the pixels remains a competitive approach. 
 
-![Capture](https://user-images.githubusercontent.com/62107909/158659111-9856b27f-ba26-44ca-81b2-e9d98c0fa0bf.JPG)
+![Capture](https://user-images.githubusercontent.com/62107909/158779957-984cc5c0-bcde-46cf-a3ef-5a25d1771aea.JPG)
+
