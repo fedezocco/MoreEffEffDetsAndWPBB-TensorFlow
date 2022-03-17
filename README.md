@@ -18,7 +18,7 @@ Files where I made changes or files that I have added (I commented with my name 
 
 (2) slightly modified "hparams_config.py" 
 
-(3) slightly "modified model_inspect.py"
+(3) slightly modified "model_inspect.py"
 
 (4) created "dataset/prepare_xml-federico_zocco.py"
 
