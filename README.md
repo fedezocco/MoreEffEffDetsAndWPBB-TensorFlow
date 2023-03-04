@@ -1,7 +1,6 @@
 # Towards More Efficient EfficientDets and Low-Light Real-Time Marine Debris Detection 
 
-This repository contains the source code and the dataset related to the paper:
-Federico Zocco et al., Towards More Efficient EfficientDets and Low-Light Real-Time Marine Debris Detection, 2022, https://arxiv.org/pdf/2203.07155.pdf.  
+This repository contains the source code and the dataset related to the paper: F. Zocco, T. -C. Lin, C. -I. Huang, H. -C. Wang, M. O. Khyam and M. Van, "Towards More Efficient EfficientDets and Real-Time Marine Debris Detection," in IEEE Robotics and Automation Letters, vol. 8, no. 4, pp. 2134-2141, April 2023, doi: 10.1109/LRA.2023.3245405.
 
 An overview of the main folders is below. For details, see the .txt files inside each folder.
 
